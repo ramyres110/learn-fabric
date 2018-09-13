@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1900" height="500" viewBox="0 0 1900 500" xml:space="preserve">
+	<desc>Created with Fabric.js 2.3.6</desc>
+	<defs>
+	</defs>
+	<rect x="0" y="0" width="100%" height="100%" fill="rgb(200,200,200)"></rect>
+	<rect x="-35.35533905932737" y="-35.35533905932737" rx="0" ry="0" width="70.71067811865474" height="70.71067811865474" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;" transform="translate(50 100.71) rotate(45)"/>
+	<circle cx="0" cy="0" r="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,128,0); fill-rule: nonzero; opacity: 1;" transform="translate(200.5 100.5) "/>
+	<polygon points="-50 50,0 -50,50 50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,255); fill-rule: nonzero; opacity: 1;" transform="translate(350.5 100.5)"/>
+	<path d="M 0 0 L 200 0 L 0 100 z" style="stroke: rgb(0,128,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 0.5;" transform="translate(800.5 100.5) translate(-100, -50) " stroke-linecap="round" />
+	<path d="M 121.32 0 L 44.58 0 C 36.67 0 29.5 3.22 24.31 8.41 c -5.19 5.19 -8.41 12.37 -8.41 20.28 c 0 15.82 12.87 28.69 28.69 28.69 c 0 0 4.4 0 7.48 0 C 36.66 72.78 8.4 101.04 8.4 101.04 C 2.98 106.45 0 113.66 0 121.32 c 0 7.66 2.98 14.87 8.4 20.29 l 0 0 c 5.42 5.42 12.62 8.4 20.28 8.4 c 7.66 0 14.87 -2.98 20.29 -8.4 c 0 0 28.26 -28.25 43.66 -43.66 c 0 3.08 0 7.48 0 7.48 c 0 15.82 12.87 28.69 28.69 28.69 c 7.66 0 14.87 -2.99 20.29 -8.4 c 5.42 -5.42 8.4 -12.62 8.4 -20.28 l 0 -76.74 c 0 -7.66 -2.98 -14.87 -8.4 -20.29 C 136.19 2.98 128.98 0 121.32 0 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform="translate(975.5 95.5) translate(-75.005, -75.005) " stroke-linecap="round" />
+	<rect x="-35.35533905932737" y="-35.35533905932737" rx="0" ry="0" width="70.71067811865474" height="70.71067811865474" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;" transform="translate(50 100.71) rotate(45)"/>
+	<rect x="-35.35533905932737" y="-35.35533905932737" rx="0" ry="0" width="70.71067811865474" height="70.71067811865474" style="stroke: rgb(100,100,100); stroke-opacity: 0.5; stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,0); fill-rule: nonzero; opacity: 1;" transform="translate(587.86 87.86)"/>
+	<g transform="translate(92.15 273.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-91.65" y="12.57">hello world</tspan>
+		</text>
+	</g>
+	<g transform="translate(348.68 273.1)">
+		<text xml:space="preserve" font-family="Tahoma" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-128.18" y="12.57">I&apos;m in Tahoma</tspan>
+		</text>
+	</g>
+	<g transform="translate(591.01 273.1)">
+		<text xml:space="preserve" font-family="arial" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-90.51" y="12.57">I&apos;m in arial</tspan>
+		</text>
+	</g>
+	<g transform="translate(842.4 273.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-141.9" y="12.57">I&apos;m at fontSize 40</tspan>
+		</text>
+	</g>
+	<g transform="translate(71.45 311.8)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-70.95" y="6.28">I&apos;m at fontSize 20</tspan>
+		</text>
+	</g>
+	<g transform="translate(286.84 323.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-136.34" y="12.57">I&apos;m a normal text</tspan>
+		</text>
+	</g>
+	<g transform="translate(582.16 323.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-131.66" y="12.57">I&apos;m at bold text</tspan>
+		</text>
+	</g>
+	<g transform="translate(901.84 323.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-151.34" y="12.57">I&apos;m underlined text</tspan>
+		</text>
+	</g>
+	<g transform="translate(184.06 373.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-183.56" y="12.57">I&apos;m stroke-through text</tspan>
+		</text>
+	</g>
+	<g transform="translate(541.84 373.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-141.34" y="12.57">I&apos;m overlined text</tspan>
+		</text>
+	</g>
+	<g transform="translate(181.85 423.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-181.35" y="12.57">I&apos;m a text with shadow</tspan>
+		</text>
+	</g>
+	<g transform="translate(566.02 423.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-165.52" y="12.57">And another shadow</tspan>
+		</text>
+	</g>
+	<g transform="translate(928.82 423.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-178.32" y="12.57">Lorem ipsum dolor sit</tspan>
+		</text>
+	</g>
+	<g transform="translate(178.97 473.1)">
+		<text xml:space="preserve" font-family="fantasy" font-size="40" font-style="italic" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-178.47" y="12.57">A very fancy italic text</tspan>
+		</text>
+	</g>
+	<g transform="translate(573.45 473.1)">
+		<text xml:space="preserve" font-family="cursive" font-size="40" font-style="italic" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-172.95" y="12.57">another italic text</tspan>
+		</text>
+	</g>
+	<g transform="translate(944.06 473.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-143.56" y="12.57">Text with a stroke</tspan>
+		</text>
+	</g>
+	<g transform="translate(1266.39 474.1)">
+		<text xml:space="preserve" font-family="Tahoma" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-164.89" y="12.57">Lorem ipsum dolor</tspan>
+		</text>
+	</g>
+	<g transform="translate(1208.8 327.34)">
+		<rect fill="rgb(0,200,0)" x="-108.3" y="-76.84" width="216.6" height="153.68"></rect>
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="13.83" y="-41.67">this is</tspan>
+			<tspan x="-63.89" y="-5.51">a multiline</tspan>
+			<tspan x="48.32" y="30.65">text</tspan>
+			<tspan x="-108.3" y="66.81">aligned right!</tspan>
+		</text>
+	</g>
+	<g transform="translate(1291.31 64.24)" style="">
+		<circle cx="0" cy="0" r="100" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;" transform="translate(-33.61 -32.2) rotate(-10) scale(1 0.5) "/>
+		<g transform="translate(-68.57 -28.88) rotate(-10) scale(1 1)">
+			<text xml:space="preserve" font-family="Times New Roman" font-size="30" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;">
+				<tspan x="-40" y="9.42">trololo</tspan>
+			</text>
+		</g>
+		<rect x="-25" y="-25" rx="0" ry="0" width="50" height="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform="translate(111.77 69.6) rotate(-10) scale(1 1)"/>
+		<rect x="-25" y="-25" rx="0" ry="0" width="50" height="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,128,0); fill-rule: nonzero; opacity: 1;" transform="translate(-115.81 -38.74)"/>
+	</g>
+	<g transform="translate(1250.5 249.5) rotate(270)" style="">
+		<circle cx="0" cy="0" r="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,128,0); fill-rule: nonzero; opacity: 1;" transform="translate(-100 0) "/>
+		<circle cx="0" cy="0" r="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,0); fill-rule: nonzero; opacity: 1;" transform="translate(0 0) "/>
+		<circle cx="0" cy="0" r="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;" transform="translate(100 0) "/>
+	</g>
+</svg>
